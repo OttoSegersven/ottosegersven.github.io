@@ -3,7 +3,7 @@ title: "Searching for Lasting Biculturalism"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'The article posits a pessimistic assessment for the possibility of lasting biculturalism and, by extension, a multicultural society'
+excerpt: 'The article posits a pessimistic assessment for the possibility of lasting biculturalism and, by extension, a multicultural society.'
 date: 2023-02-13
 venue: 'Acta Sociologica'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
