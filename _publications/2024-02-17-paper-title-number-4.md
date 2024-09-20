@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Identifying Social Groups, Boundaries and Cultural Competence"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'How to identify and account for the birth and survival of social groups is a core question in sociology. This dissertation delves into this question through the lens of acculturation – the process by which cultures emerge, merge or fade when people interact. Central to this exploration is the concept of biculturalism, defined as an individual’s capacity to understand and gain fluency in more than one culture, a foundational element for a multicultural society. This work examines acculturation in terms of cultural competence: people’s capacity to engage fluently with their group members and draw boundaries against non-members in interactions. The study takes place in Finland and involves three social relations: (1) active Christians and non-religious persons, (2) Finnish Somalis and majority Finns, and (3) Finland-Swedes and majority Finns. The research addresses first the questions of whether, and in what ways, each group shares a distinct, uniform pool of cultural competences. Second, it examines to what extent members of each group have developed bicultural competences – that is, fluency in not only their own culture but also the culture of the group they are not a member of. A novel research method known as the Imitation Game (IG) is employed and developed. The IG allows for investigating these questions based on a) how and b) how accurately each group can identify members from imitating non-members in the game environment. A mixed-methods framework analysing both qualitative and quantitative IG data is developed to integrate both lines of inquiry. This enables the researcher to pinpoint acculturation paths and reveal domains of social exclusion and inclusion, and degrees of groupness in a social relation. In exploring these phenomena through the prism of cultural competences with the IG, this dissertation offers a new approach to classical concepts in the social sciences, including identity, social group and culture, gaining new insights into fundamental sociological topics, such as the making and maintenance of social groups, as well as socialization, integration, and the coexistence of multiple ways of life within a single society. The dissertation is divided into three sub-studies. Each covers one of the above-mentioned social relations. Together they contribute to the fields of general sociology, social scientific research methodology, migration and integration, and ethnic relations.'
+date: 2023-10-28
+venue: 'University of Helsinki'
+paperurl: 'https://helda.helsinki.fi/items/6d4266e4-6f7c-423b-b49b-c2ba24b9658d'
+citation: 'Segersven, O. (2023) ’Identifying social groups, boundaries and cultural competence: An Imitation Game inquiry’, academic dissertation, University of Helsinki'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
