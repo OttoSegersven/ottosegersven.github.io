@@ -3,7 +3,7 @@ title: "Can a Machine 'Talk' like a Rock climber? A Sociological Turing Test"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-5
-excerpt: 'Article manuscript'
+excerpt: 'The article explores the limits and capabilities of AI in human-machine interaction'
 date: 2024-10-28
 venue: 'To be published'
 # paperurl: 'https://helda.helsinki.fi/items/6d4266e4-'
