@@ -3,7 +3,7 @@ title: "Acculturation among Finnish Somalis: An Imitation Game inquiry into bicu
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-# excerpt: ''
+excerpt: 'This study presents the Imitation Game as a new way of outlining the sociocultural foundations of ethnic relations in the context of migration and integration, and pinpointing potential domains of social exclusion between or cultural division within groups.'
 date: 2023-03-27
 venue: 'International Migration Review'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
