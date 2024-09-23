@@ -22,11 +22,11 @@ repository               : "ottosegersven/ottosegersven.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Otto Segersven"
+  name             : "Otto Segersven"
   pronouns         : # example: "she/her"  
-  bio              : "Social Scientist"
+  bio              : "Doctor of social sciences"
   location         : "Berlin, Germany"
-  employer         : "Independent"
+  employer         : "University of Helsinki"
   uri              : # URL
   email            : "otto.segersven@helsinki.fi" 
 
