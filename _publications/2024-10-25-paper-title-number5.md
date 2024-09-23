@@ -3,9 +3,9 @@ title: "Can a Machine 'Talk' like a Rock climber? A Sociological Turing Test"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-5
-excerpt: 'The article explores the limits and capabilities of AI in human-machine interaction'
+excerpt: 'The article explores the limits and capabilities of AI in human-machine interaction. Under review'
 date: 2024-10-28
-venue: 'To be published'
+# venue: 'To be published'
 # paperurl: 'https://helda.helsinki.fi/items/6d4266e4-'
 # citation: 'Segersven, O. (2023) ’Identifying social groups, boundaries and cultural competence: An Imitation Game inquiry’, academic dissertation, University of Helsinki'
 ---
