@@ -1,10 +1,10 @@
 ---
 title: "Can a Machine 'Talk' like a Rock climber? A Sociological Turing Test"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-5
 excerpt: 'Article manuscript'
-date: 2023-10-28
+date: 2024-10-28
 venue: 'To be published'
 # paperurl: 'https://helda.helsinki.fi/items/6d4266e4-'
 # citation: 'Segersven, O. (2023) ’Identifying social groups, boundaries and cultural competence: An Imitation Game inquiry’, academic dissertation, University of Helsinki'
