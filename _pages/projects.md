@@ -8,13 +8,13 @@ author_profile: true
 
 Currently, I'm working on securing funding for a number of research projects:
 
-1. What Sets Us Apart? Identifying AI Enhanced Expertise in Human-Machine Interaction
-2. Emplacing Global Environmental Change
-3. The Making and Maintenance of 'Finland-Swedes': A Computational Analysis of Swedish-speaking Newspapers in Finland 1910 - the present
+1. [What Sets Us Apart? Identifying AI Enhanced Expertise in Human-Machine Interaction] (#what-sets-us-apart)
+2. [Emplacing Global Environmental Change](#emplacing-global)
+3. [The Making and Maintenance of 'Finland-Swedes': A Computational Analysis of Swedish-speaking Newspapers in Finland 1910 - the present](#making-Finland-Swedes)
 
 ---
 
-## What Sets Us Apart? Identifying AI Enhanced Expertise in Human-Machine Interaction
+## <a id="what-sets-us-apart">What Sets Us Apart? Identifying AI Enhanced Expertise in Human-Machine Interaction
 
 <div style="overflow: hidden;">
     <img src='/images/Turing_Illustration.png' style="float: right; width: 50%; margin-left: 10px;" alt="Research Image">
@@ -24,7 +24,7 @@ Currently, I'm working on securing funding for a number of research projects:
 ---
 
 
-## Emplacing Global Environmental Change
+## <a id="emplacing-global">Emplacing Global Environmental Change
 
 
 
@@ -40,7 +40,7 @@ Currently, I'm working on securing funding for a number of research projects:
 
 ---
 
-## The Making and Maintenance of 'Finland-Swedes': A Computational Analysis of Swedish-speaking Newspapers in Finland 1910 - the present
+## <a id="Making-Finland-Swedes">The Making and Maintenance of 'Finland-Swedes': A Computational Analysis of Swedish-speaking Newspapers in Finland 1910 - the present
 
 
 
