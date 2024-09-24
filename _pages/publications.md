@@ -2,11 +2,12 @@
 layout: page
 title: "Publications"
 permalink: /publications1/
+author_profile: true
 ---
 
 ## My Publications
 
-You can find all my research publications on [Google Scholar](https://scholar.google.com/citations?user=dP8WfgIAAAAJ&hl=en&oi=ao).
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=dP8WfgIAAAAJ&hl=en&oi=ao).
 
 Segersven, O & Arminen, I. (Under review) 'Can a Machine 'Talk' like a Rock climber? A Sociological Turing Test'
 [link to abstract](https://ottosegersven.github.io/publication/2024-02-17-paper-title-number-5)
