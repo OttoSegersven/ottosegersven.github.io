@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-Currently, I'm working on securing funding for a number of research projects. These initiatives include:
+Currently, I'm working on securing funding for a number of research projects:
 
 1. What Sets Us Apart? Identifying AI Enhanced Expertise in Human-Machine Interaction
 2. Emplacing Global Environmental Change
-3. 
+3. The Making and Maintenance of 'Finland-Swedes': A Computational Analysis of Swedish-speaking Newspapers in Finland 1910 - the present
 
 ---
 
@@ -28,7 +28,7 @@ Currently, I'm working on securing funding for a number of research projects. Th
 
 
 <div style="overflow: hidden;">
-    <img src='/images/Chalten.png' style="float: right; width: 50%; margin-left: 10px;" alt="Research Image">
+    <img src='/images/Chalten.jpg' style="float: right; width: 50%; margin-left: 10px;" alt="Research Image">
     "This initiative explores the concept of 'place' as a missing link between environmental knowledge and sustainable action. This science-art collaboration, involving a social scientist and a visual artist, immerses itself in El Chaltén, Argentina, a village situated deep in the Patagonian steppe within the Los Glaciares National Park. The project tackles an ongoing challenge identified by climate scholars: the gap between awareness of environmental issues and corresponding action. Concepts like CO2 levels and
     carbon footprints remain abstract and disconnected from everyday experiences. This project posits that 'place'—understood as physical, social, and cultural—can make global environmental change tangible and meaningful to diverse audiences.  
     El Chaltén, with its iconic Fitz Roy mountain range and melting glaciers, is a compelling case study. Its natural environment, visibly changing by global processes, reliance on high-carbon systems, and cosmopolitan population make it an ideal microcosm for examining how ubiquitous environmental challenges are perceived
