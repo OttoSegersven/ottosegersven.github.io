@@ -14,5 +14,5 @@ Artificial Intelligence (AI) has been insinuating into every aspect of our moder
 <img src='/images/turing_illustration.png' style="float: right; margin: 0 0 10px 10px;" alt="Research Image">
 
 
-#Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+#Short description of portfolio item number 1<br/><img src='/images/turing_illustration.png'>"
 
