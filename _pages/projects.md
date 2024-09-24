@@ -8,7 +8,7 @@ author_profile: true
 
 Currently, I'm working on securing funding for a number of research projects:
 
-1. [What Sets Us Apart? Identifying AI Enhanced Expertise in Human-Machine Interaction] (#what-sets-us-apart)
+1. [What Sets Us Apart? Identifying AI Enhanced Expertise in Human-Machine Interaction](#what-sets-us-apart)
 2. [Emplacing Global Environmental Change](#emplacing-global)
 3. [The Making and Maintenance of 'Finland-Swedes': A Computational Analysis of Swedish-speaking Newspapers in Finland 1910 - the present](#making-Finland-Swedes)
 
@@ -46,6 +46,16 @@ Currently, I'm working on securing funding for a number of research projects:
 
 <div style="overflow: hidden;">
     <img src='/images/hbl.jpeg' style="float: right; width: 50%; margin-left: 10px;" alt="Research Image">
-    How is Finland-Swedishness made and maintained? This is a study of the discursive construction of Finland-Swedes as an ethnic and linguistic group in Swedish-speaking newspapers in Finland, from 1900 until the present. It utilizes a computational technique known as topic modelling, which allows for systematic qualitative analysis of large textual data. The objective is to trace the transformation of discourse over time, and contribute to our understanding of how ethnicities emerge and prevail through modernity until today
+    How is Finland-Swedishness created and maintained? This study examines the discursive construction of Finland-Swedes as an ethnic and linguistic group in Swedish-speaking newspapers in Finland, spanning from 1900 to the present. Scholars consider Finland-Swedes to be a successful minority, given their secure legislative position, and political, economic, and cultural resources relative to their small population size. This success stems from the creation of a robust ethno-political identity that positions Finland-Swedes as a distinct ethnic and linguistic group, part of the Finnish nation.  Despite its success by international comparison, the population is gradually shrinking, and Finland-Swedes are actively seeking ways of increasing its vitality in the face of an uncertain future.  Drawing on a newly digitized dataset of Swedish-speaking newspapers, this project traces the evolving discourse around Finland-Swedes, contributing to our understanding of how ethnic identities emerge and survive, as well as how they might prevail in a changing society. It employs a computational technique known as topic modeling to identify trends and patterns through automated systematic qualitative analysis. 
+
+    The project focuses on three issues that are central to Finland-Swedish identity construction: 
+
+  
+
+    1. The impact of bilingualism and the role of bilinguals in the community. 
+
+    2. The internal boundary maintenance between the urban south and rural north. 
+
+    3. The development of a dual identity—identifying as both a Finn and a Finland-Swede. 
 </div>
 
