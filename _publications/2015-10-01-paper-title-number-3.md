@@ -2,9 +2,9 @@
 title: "Exploring Groupness: A Mixed Methods Inquiry"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2020-10-01-paper-title-number-3
 excerpt: 'The article posits that group boundaries are established with 4 different strategies: experiential, epistemic, axiological, and linguistic.'
-date: 2015-10-01
+date: 2020-10-01
 venue: 'International Journal of Multiple Research Approaches'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://doi.org/10.29034/ijmra.v12n1a3'
