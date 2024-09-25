@@ -10,7 +10,7 @@ Currently, I'm working on securing funding for a number of research projects:
 
 1. [What Sets Us Apart? Identifying AI Enhanced Expertise in Human-Machine Interaction](#what-sets-us-apart)
 2. [Emplacing Global Environmental Change](#emplacing-global)
-3. [The Making and Maintenance of Ethnicity: A Computational Analysis](#making-Finland-Swedes)
+3. [The Making and Maintenance of Ethnicity: A Computational Analysis](#Making-Finland-Swedes)
 
 ---
 
