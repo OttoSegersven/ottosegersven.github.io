@@ -2,7 +2,7 @@
 title: "Identifying Social Groups, Boundaries and Cultural Competence"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/5
 excerpt: 'Doctoral dissertation' 
 date: 2023-10-28
 venue: 'University of Helsinki'
