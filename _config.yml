@@ -21,7 +21,7 @@ repository               : "ottosegersven/ottosegersven.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/biopic.jpeg"
+  avatar           : /images/biopic.jpeg
   name             : "Otto Segersven"
   pronouns         : # example: "she/her"  
   bio              : "Doctor of social sciences"
