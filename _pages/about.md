@@ -17,12 +17,8 @@ redirect_from:
 
 <br>
 
-I am Otto Segersven, a professional academic, amateur athlete and poet.
 
-<br>
-
-
-🎓 **In academia**, I'm a postdoctoral researcher whose research encompasses ethnic and religious relations, human-machine interactions, and human-nature connections. My overarching research commitment is to understand how we adopt and construct ways of knowing and -conduct in the world through interactions with others and our environments. I'm a mixed methods researcher with a methodological toolkit including interviews, surveys, experimental design and computational methods.
+🎓 I am Otto Segersven, a postdoctoral researcher in the social sciences. My research encompasses ethnic and religious relations, human-machine interactions, and human-nature connections. My overarching research commitment is to understand how we adopt and construct ways of knowing and -conduct in the world through interactions with others and our environments. I'm a mixed methods researcher with a methodological toolkit including interviews, surveys, experimental design and computational methods.
 
 
 
