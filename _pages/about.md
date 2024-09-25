@@ -40,7 +40,7 @@ Feel free to explore my [CV](cv/), [publications](/publications1/) and [research
 ✍️ **I write poetry** to touch with the here and now and the pleasure of crafting an original thought in an original way. ✍️ <!--Poetry helps me to touch the here and now and perhaps grasp a glimpse of the universal, intersubjective experience.-->
 
 
-🇸🇪🇫🇮🇩🇪🇪🇸🇬🇧🐍 My native **languages** are Swedish and Finnish, my working language is English, in my everyday life in Berlin I speak mainly German and Spanish and I am still learning to speak python with the computer.
+🇸🇪🇫🇮🇩🇪🇪🇸🇬🇧🐍 My native **languages** are **Swedish and Finnish**, my working language is **English**, in my everyday life in Berlin I speak mainly **German and Spanish** and I am still learning to speak **Python** with the computer.
 
 
 📰 **Last but not least**, I'm an avid consumer of news, particularly interested in politics, international affairs, economics, technology and global environmental change.
