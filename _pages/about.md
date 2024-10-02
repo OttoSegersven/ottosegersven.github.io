@@ -23,7 +23,7 @@ redirect_from:
 
 
 
-Feel free to explore my [CV](cv/), [publications](/publications1/) and [research projects](/projects1/).
+Feel free to explore my [CV](cv/), [publications](/publications/) and [research projects](/projects/).
 
 <br>
 
