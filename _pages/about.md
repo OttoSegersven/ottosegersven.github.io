@@ -18,7 +18,7 @@ redirect_from:
 <br>
 
 
-🎓 I am Otto Segersven, a postdoctoral researcher in the social sciences. My research encompasses ethnic and religious relations, human-machine interactions, and human-nature connections. My overarching research commitment is to understand how we adopt and construct ways of knowing and conduct in the world through interactions with others and our environments. I'm a mixed methods researcher with a methodological toolkit that includes interviews, surveys, experimental design and computational methods.
+🎓 I am Otto Segersven, a postdoctoral researcher in social sciences, currently focused on AI literacy in education. My research interests encompass ethnic and religious relations, human-machine interactions, and human-nature connections. My overarching research commitment is to understand how we adopt and construct ways of knowing and conduct in the world through interactions with others and our environments. I'm a mixed methods researcher with a methodological toolkit that includes interviews, surveys, experimental design and computational methods.
 
 
 
