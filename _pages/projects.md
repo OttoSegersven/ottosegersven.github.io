@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Currently, I'm working on securing funding for a number of research projects:
+Included here are both my ongoing projects and those for which I am actively seeking funding.
 
 1. [What Sets Us Apart? Identifying AI Enhanced Expertise in Human-Machine Interaction](#what-sets-us-apart)
 2. [Spot the Bot](#spot-the-bot)
@@ -30,7 +30,10 @@ Currently, I'm working on securing funding for a number of research projects:
 <br>
 <div style="overflow: hidden;">
     <img src='/images/spotthebot1.jpg' style="float: right; width: 50%; margin-left: 10px;" alt="Research Image">
-    The proliferation of AI-generated content brings the risk of an epistemic breakdown, leading to a loss of trust in the media we consume. Fabricated memes and deepfake videos are increasingly used to disinform and manipulate the public, posing a threat to democracy. In this AI-transformed media landscape, people are now confronted with a critical question: Is this content human or machine-generated? This research explores how individuals interpret media in the age of AI, focusing on how they distinguish between what is real and what is fake. Today, AI-generated content is already difficult—if not impossible—to distinguish from human-made material, and this challenge will only grow as AI technology advances. To address this, the study employs two experimental settings. In the first, recorded videos where individuals pitch their ideas are manipulated with AI technology, creating alternative versions. By analyzing how participants respond to these altered videos in comparison to originals, we aim to uncover their perceptions of AI capabilities and how they adapt to an epistemically insecure media landscape. The second experimental setup examines how people differentiate between authentic and AI-generated memes. Once again, the focus is on their strategies for identifying the origin of content and their reception of authentic versus machine-generated media. Understanding people's perspectives on what AI can and cannot do, as well as how they adapt to an increasingly uncertain information environment, is essential. This knowledge is crucial for developing AI literacy resources and helping society navigate the challenges posed by this emerging technology. 
+    One of the challenges posed by generative AI is the proliferation of synthetic content: Societies are flooded with seemingly knowledgeable and human-made texts and comments, fabricated memes and deepfakes that can be used to disinform and manipulate the public, exacerbating the lack of trust in the content we engage with online, and forming a threat to democracy. In this AI-transformed world of digital hyperconnectivity people are now confronted with hard questions: Is this content human or AI-generated? Am I interacting with a human or a machine? Is this real or fabricated? Is there a clear distinction between the two? To address these questions, this research investigates how people receive, interpret, and interact with synthetic content in two ‘Spot the Bot’ experiments. In the first experiment, we used a deep fake generator to manipulate recorded videos of academics pitching their research, creating alternative versions. During interviews and surveys, participants were shown a mix of altered and original videos and asked to evaluate them both qualitatively and quantitatively, as well as distinguish which is original and which is modified. The goal is to understand how people respond to videos where their authenticity is uncertain, whether their evaluations differ between real and modified videos, and open their strategies and accuracy in distinguishing between real and fake. 
+    The second experiment examines how people differentiate between authentic and AI-generated memes circulating online. The focus is again on the overall reception of images in the age of generative AI and the strategies participants use to identify the origin of the content. Understanding people's perspectives on what AI can and cannot do, and how they adapt to an increasingly uncertain information environment, is key.
+
+ 
 
     
 </div>
@@ -61,16 +64,6 @@ Currently, I'm working on securing funding for a number of research projects:
 <div style="overflow: hidden;">
     <img src='/images/hbl.jpeg' style="float: right; width: 50%; margin-left: 10px;" alt="Research Image">
     How is Finland-Swedishness created and maintained? This study examines the discursive construction of Finland-Swedes as an ethnic and linguistic group in Swedish-speaking newspapers in Finland, spanning from 1900 to the present. Scholars consider Finland-Swedes to be a successful minority, given their secure constitutional rights, as well as political, economic, and cultural power relative to their small population size. A crucial factor in this success stems from the creation of a robust ethno-political identity with a common bond and fate that is both part of, yet distinct within the Finnish nation.  Nevertheless, despite its success by international comparison, the population is gradually shrinking, and Finland-Swedes are actively seeking ways of increasing the vitality of the community in the face of an uncertain future.  Drawing on a newly digitized dataset of Swedish-speaking newspapers, this project traces the evolving discourse around Finland-Swedes, exploring how ethnic identities emerge and survive, as well as how they might prevail in a changing society. To make use of the vast textual data, the research employs a computational technique known as topic modeling to identify trends and patterns through automated systematic qualitative analysis. 
-
-    The project focuses on three issues that are central to Finland-Swedish identity construction: <br>
-
-  
-
-    1. The impact of bilingualism and the role of bilinguals in the community. <br>
-
-    2. The internal boundary maintenance between the urban south and rural north. <br>
-
-    3. The development of a dual identity—identifying as both a Finn and a Finland-Swede. <br><br>
 
 </div>
 
