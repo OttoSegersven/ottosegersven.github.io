@@ -30,14 +30,14 @@ Feel free to explore my [CV](cv/), [publications](/publications/) and [research 
 *Beyond professional life*
 
 
-🏃‍♂️ I'm a rock climber and ultra runner. Running liberates and empowers and I've formulated many of my best sentences on the run. Climbing clears my mind and is refreshingly purposeless.
+I'm a rock climber and ultra runner. Running liberates and empowers and I've formulated many of my best sentences on the run. Climbing clears my mind and is refreshingly purposeless.
 
 
-✍️ I write poetry for the pleasure of crafting an original thought in an original way.  <!--Poetry helps me to touch the here and now and perhaps grasp a glimpse of the universal, intersubjective experience.-->
+I write poetry for the pleasure of crafting an original thought in an original way.  <!--Poetry helps me to touch the here and now and perhaps grasp a glimpse of the universal, intersubjective experience.-->
 
 
-🌎 My native languages are Swedish and Finnish, my working language is English, in my everyday life in Berlin I speak mainly German and Spanish and I am still learning to speak Python with the computer.
+My native languages are Swedish and Finnish, my working language is English, in my everyday life in Berlin I speak mainly German and Spanish and I am still learning to speak Python with the computer.
 
 
-📰 I'm an avid consumer of news, particularly interested in politics, international affairs, economics, technology and global environmental change.
+I'm an avid consumer of news, particularly interested in politics, international affairs, economics, technology and global environmental change.
 
