@@ -18,7 +18,9 @@ redirect_from:
 <br>
 
 
-🎓 I am Otto Segersven, a postdoctoral researcher in social sciences, currently focused on AI literacy in education. My research interests encompass ethnic and religious relations, human-machine interactions, and human-nature connections. My overarching research commitment is to understand how we adopt and construct ways of knowing and conduct in the world through interactions with others and our environments. I'm a mixed methods researcher with a methodological toolkit that includes interviews, surveys, experimental design and computational methods.
+🎓 I’m Otto Segersven, a PhD in Social Sciences, currently working at the Department of Computer Science at the University of Helsinki on the [AI Literacy Project](ailit.fi). Alongside this, I serve as an independent grant-funded researcher on the project [What Sets Us Apart? Identifying AI-Enhanced Expertise in Human-Machine Interaction](https://koneensaatio.fi/en/grants-and-residencies/what-sets-us-apart-identifying-ai-enhanced-expertise-in-human-machine-interaction-2/). My research explores the emerging forms of collaboration and competence that arise as AI becomes integrated into various domains of life. I’m particularly interested in how AI reshapes human expertise and the boundaries between human and machine capabilities. Previously, my research focused on the role of cultural competence and bicultural fluency in shaping ethnic and religious relations in contemporary society. I’m a mixed methods researcher with strong skills in interviews, surveys, and experimental design.
+
+
 
 
 
