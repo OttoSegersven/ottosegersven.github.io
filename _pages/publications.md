@@ -12,9 +12,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 
 
-
-Segersven, O & Arminen, I. (Under review) *Can a Machine 'Talk' like a Rock climber? A Sociological Turing Test*  
-[Link to abstract](https://ottosegersven.github.io/publication/6)
+  
+Segersven, O. & Arminen, I. (2025) ‘Can a machine talk the talk though not climb the rock? A Turing Test on rock climbing’ *Discourse, Context & Media*
+[Link to paper](https://doi.org/10.1016/j.dcm.2025.100915)
 
 
 Segersven, O. (2024) Searching for lasting biculturalism: An Imitation Game inquiry, *Acta Sociologica*, 67(1), 32-49.  
