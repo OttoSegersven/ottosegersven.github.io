@@ -11,9 +11,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 
 
-
+Segersven, O., & Mannila, L. (to be published). Designing the competence imitation game: A research and teaching tool for context-specific AI literacy. *Proceeding of the 2nd International Workshop on AI in Society, Education, and Educational Research (AISEER)*, Bologna, Italy October 25, 2025
   
-Segersven, O. & Arminen, I. (2025) ‘Can a machine talk the talk though not climb the rock? A Turing Test on rock climbing’ *Discourse, Context & Media*
+Segersven, O. & Arminen, I. (2025) Can a machine talk the talk though not climb the rock? A Turing Test on rock climbing *Discourse, Context & Media*
 [Link to paper](https://doi.org/10.1016/j.dcm.2025.100915)
 
 
